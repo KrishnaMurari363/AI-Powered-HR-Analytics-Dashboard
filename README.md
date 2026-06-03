@@ -6,6 +6,10 @@ This project enables HR teams and business leaders to analyze employee attrition
 
 ---
 
+## Live Dashboard
+
+https://ai-powered-hr-analytics-dashboard-b4hjwzca3rgyxfq8eztktr.streamlit.app
+
 ## Features
 
 ### Data Upload
